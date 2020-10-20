@@ -1,0 +1,22 @@
+{
+	"author": "Voltaism",
+	"version": "1.0",
+        "onset_build": "1.3.1",
+        "client_scripts": [
+                "config.lua",
+                "client/cl_particles.lua",
+                "client/cl_tool.lua"
+        ],
+        "server_scripts": [
+                "config.lua",
+                "server/particles.lua",
+                "server/tool.lua"
+        ],
+        "files": [
+              "paks/particles1.pak",
+              "paks/particles2.pak",
+              "paks/particles3.pak",
+              "paks/particles4.pak"
+        ]
+
+}
